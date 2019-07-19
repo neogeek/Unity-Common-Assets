@@ -1,0 +1,9 @@
+{
+    "name": "com.neogeek.unity-common-assets",
+    "displayName": "Unity Common Assets",
+    "version": "1.0.0",
+    "unity": "2019.1",
+    "description": "Common assets used for Unity development.",
+    "keywords": [],
+    "dependencies": {}
+}
